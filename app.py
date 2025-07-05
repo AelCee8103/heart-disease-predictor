@@ -30,8 +30,8 @@ Note: This tool is for educational purposes and should not replace clinical judg
 # Define options with clinical terminology
 
 gen_health_options = ["Poor", "Fair", "Good", "Very good", "Excellent"]
-diabetic_options = ["No", "No, borderline diabetes",
-                    "Yes", "Yes (during pregnancy)"]
+diabetic_options = ["No", "Yes",
+                    "No, borderline diabetes", "Yes (during pregnancy)"]
 age_categories = [
     '18-24', '25-29', '30-34', '35-39', '40-44',
     '45-49', '50-54', '55-59', '60-64', '65-69',
