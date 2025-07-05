@@ -29,7 +29,7 @@ Note: This tool is for educational purposes and should not replace clinical judg
 
 # Define options with clinical terminology
 
-gen_health_options = ["Excellent", "Very good", "Good", "Fair", "Poor"]
+gen_health_options = ["Poor", "Fair", "Good", "Very good", "Excellent"]
 diabetic_options = ["No", "No, borderline diabetes",
                     "Yes", "Yes (during pregnancy)"]
 age_categories = [
